@@ -35,7 +35,7 @@
 
 ## :rocket: Technologies
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+This project was developed with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
 -  [Create React App Configuration Override](https://github.com/sharegate/craco)
